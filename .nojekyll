@@ -1,0 +1,2 @@
+# Force GitHub Pages to publish this repository as plain static files.
+# This keeps folders like /sherry_hotel/ available exactly as committed.
